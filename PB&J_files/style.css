@@ -1,0 +1,20 @@
+html {
+  background-color: rgb(241, 69, 164);
+}
+body {
+  background-color: beige;
+  width: 500px;
+  margin: 30px auto;
+  padding-right: 25px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-top: 15px;
+  border: 10px solid;
+  border-color: rgb(135, 186, 216);
+  border-style: double;
+  text-shadow: 5px;
+  text-decoration: dotted;
+
+  list-style-position: initial;
+}
+/* Center Fixed Width Body */
